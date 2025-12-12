@@ -53,7 +53,18 @@ The insights support data-driven retention strategies and improved customer expe
   -  **Joins & Relationships:** Combined multiple tables using INNER, LEFT, RIGHT, FULL joins to create meaningful datasets.
   -  **Aggregations & Calculations:** Used GROUP BY, HAVING, and window functions for advanced calculations and summaries.
 ## Analysis & Visualization:
+### Data Modelling:
+![Alt Text](https://github.com/RajeshwariDataAnalyst/MySQL/blob/main/SQL-Data%20Model.png)
 
+## Insights:
+- Consolidated fragmented and unorganized e-commerce datasets into a unified data model to better understand customer behavior.
+- dentified key behavioral metrics such as customer tenure, churn status, days since last order, and order amount variations to assess engagement levels.
+- Detected early signs of declining customer activity, enabling data-driven churn prediction and proactive retention strategies.
+- Integrated ReturnID tracking to analyze product return patterns, identify frequent return customers, detect quality issues, and measure the operational impact of returns.
+- Enabled the business to recognize high-risk customers, analyze purchase trends, and make more informed decisions using structured, query-driven analytics.
+- Uncovered critical insights from previously hidden data, including delivery distance, app usage hours, complaint frequency, coupon usage patterns, preferred login device, and payment mode.
+## Conclusion:
+The use of SQL’s advanced capabilities such as data cleaning and transformation, joins, stored procedures, window functions, and fact/dimension table modeling proved effective for comprehensive e-commerce data analysis, converting fragmented raw datasets into structured, meaningful insights. This enabled clear reporting, identification of high risk customers, detection of trends, and supported data-driven decision-making for business strategies and customer retention.
 
 
 
